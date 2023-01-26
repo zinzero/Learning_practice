@@ -1,3 +1,3 @@
-# DataStructureLearning
+# Learning_practice
 
-자료구조 구현 연습
+자유롭게 공부하기 
